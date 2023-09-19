@@ -15,9 +15,10 @@ products:
 - azure-container-registry
 - azure-app-service-web
 - playwright
+- log-analytics
 ---
 
-# .NET Podcasts - Sample Applicationnnnnn
+# .NET Podcasts - Sample Application
 
 The .NET Podcast app is a sample application showcasing [.NET](https://dotnet.microsoft.com/), [ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet), [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor), [.NET MAUI](https://dotnet.microsoft.com/apps/maui), [Azure Container Apps](https://azure.microsoft.com/services/container-apps/#overview), [Orleans](https://docs.microsoft.com/dotnet/orleans/overview), [Playwright](https://playwright.dev), and more.
 
